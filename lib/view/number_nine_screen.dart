@@ -39,7 +39,7 @@ class NumberNineScreen extends StatelessWidget {
             ),
             child: ClipOval(
               child: Image.asset(
-                'assets/masjid.jpg',
+                'assets/Kucing.jpeg',
                 fit: BoxFit.cover,
               ),
             ),
